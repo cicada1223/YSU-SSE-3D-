@@ -68,6 +68,6 @@ void OnGUI() {
 
 通过这个简易计算器的例子，我们展示了如何在游戏开发中实现数据和逻辑的分离。使用类似ECS或MVC的模式，可以提高游戏的可维护性和扩展性，使得开发者能够更轻松地进行功能扩展或界面优化。希望这个例子能对你的游戏开发有所启发！
 
-代码（Assets文件夹）地址：
+代码（Assets文件夹）地址：[YSU-SSE-3D-/ at main · cicada1223/YSU-SSE-3D- (github.com)](https://github.com/cicada1223/YSU-SSE-3D-/tree/main)
 
-演示视频：
+演示视频：[自制计算机_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12RmGY6Ege/?spm_id_from=333.999.0.0&vd_source=b5e5b58df5584430b5f5e1c8be8669a6)
