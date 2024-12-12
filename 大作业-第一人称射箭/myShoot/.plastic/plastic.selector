@@ -1,0 +1,4 @@
+repository "myShoot@tj_organization_33262318889388@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
